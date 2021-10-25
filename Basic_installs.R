@@ -1,0 +1,5 @@
+install.packages("remotes")
+install.packages("devtools")
+remotes::install_github("OHDSI/Legend")
+remotes::install_github("OHDSI/CohortMethod")
+remotes::install_github("OHDSI/FeatureExtraction")
